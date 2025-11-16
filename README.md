@@ -37,12 +37,11 @@ Intégration de **Google Translate API** pour la traduction et l’aide à la fo
 
 ### Backend
 - **NestJs**
-- **WebSocket** pour communication instantanée
 - Gestion des utilisateurs et des sessions
 
 ### IA & Services
 - **Google Translate API**
-- Pipeline d’analyse vidéo
+- Gemini 2.5 Experimental
 
 
 
