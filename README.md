@@ -44,7 +44,6 @@ Intégration de **Google Translate API** pour la traduction et l’aide à la fo
 - **Google Translate API**
 - Pipeline d’analyse vidéo
 
----
 
-## 📁 Structure du Projet
+
 
